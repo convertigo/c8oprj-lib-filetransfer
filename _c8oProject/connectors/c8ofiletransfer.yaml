@@ -1,5 +1,4 @@
 ↑default: true
-anonymousReplication: allow
 databaseName: c8ofiletransfer
 ↓AddChunk [transactions.couchdb.PostDocumentTransaction]: 
   accessibility: Private
